@@ -6,8 +6,8 @@
 <a href="https://www.researchgate.net/profile/Francois-Rheault">
   <img align="left" alt="Francois Rheault ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/researchgate.svg" />
 </a>
-<a href="https://www.researchgate.net/profile/Francois-Rheault">
-  <img align="left" alt="Francois Rheault ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/googlescholar.svg" />
+<a href="https://scholar.google.com/citations?user=IWMMMGsAAAAJ&hl=en">
+  <img align="left" alt="Francois Rheault GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/googlescholar.svg" />
 </a>
 
 <br />
@@ -32,4 +32,5 @@ Hi, I'm **Francois Rheault**, a **Computer Scientist** 🖥️ and a **Neuroimag
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![frheault's github stats](https://github-readme-stats.vercel.app/api?username=frheault&show_icons=true&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=frheault&show_icons=true&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frheault)](https://github.com/anuraghazra/github-readme-stats) 
