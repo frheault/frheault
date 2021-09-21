@@ -1,5 +1,7 @@
 ![Header](https://i.ibb.co/t8XqcTt/mincraft.png])
 
+  <img align="right" alt="PNG" src="https://i.ibb.co/7tTTBbN/Francois-Rheault-Ude-S.jpg" width="150"/>
+
 Hi, I'm **Francois Rheault**, a **Computer Scientist** 🖥️ and a **Neuroimaging Expert** 🧠 from **Canada** 🇨🇦.
 
 Cycling enthusiast 🚴‍♂️, backcountry camping 🏕️ and science communication 🔬.
@@ -15,11 +17,12 @@ Cycling enthusiast 🚴‍♂️, backcountry camping 🏕️ and science commun
 </a>
 
 <br />
+<br />  
+<br />
 <br />
 
-  <img align="right" alt="PNG" src="https://i.ibb.co/7tTTBbN/Francois-Rheault-Ude-S.jpg" width="250" height="250"/>
-
 **Talking about Personal Stuffs:**
+  <img align="right" alt="PNG" src="https://i.ibb.co/chpmZn4/Screenshot-from-2021-09-21-17-56-17.png" width="300" >
 - 🧲 My research interests are with neuroimaging, diffusion MRI and tractography, visualization
 - 💼 I’m doing a postdoctoral fellowship in Electrical and Computer Engineering [(profile)](https://www.vanderbilt.edu/vise/visepeople/francois-rheault/)
 - 📜 You can look at my thesis: [Analyse et reconstruction de faisceaux de la matière blanche](https://savoirs.usherbrooke.ca/handle/11143/17255)
@@ -35,6 +38,7 @@ Cycling enthusiast 🚴‍♂️, backcountry camping 🏕️ and science commun
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<br />
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=frheault&show_icons=true&hide_border=true)
 
 **Figures from my work:**  
