@@ -6,13 +6,16 @@
 <a href="https://www.researchgate.net/profile/Francois-Rheault">
   <img align="left" alt="Francois Rheault ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/researchgate.svg" />
 </a>
+<a href="https://www.researchgate.net/profile/Francois-Rheault">
+  <img align="left" alt="Francois Rheault ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/googlescholar.svg" />
+</a>
 
 <br />
 <br />
 
 Hi, I'm **Francois Rheault**, a **Computer Scientist** 🖥️ and a **Neuroimaging Expert** 🧠 from **Canada** 🇨🇦.  cycling enthusiast 🚴‍♂️, backcountry camping 🏕️.
 
-  <img align="right" alt="PNG" src="https://i.ibb.co/7tTTBbN/Francois-Rheault-Ude-S.jpg" />
+  <img align="right" alt="PNG" src="https://i.ibb.co/7tTTBbN/Francois-Rheault-Ude-S.jpg" width="250" height="250"/>
 
 **Talking about Personal Stuffs:**
 - 🤔 My interests are with neuroimaging, diffusion MRI and Tractography, scientific visualization;
