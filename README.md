@@ -20,17 +20,17 @@ Hi, I'm **Francois Rheault**, a **Computer Scientist** 🖥️ and a **Neuroimag
 **Talking about Personal Stuffs:**
 - 🤔 My interests are with neuroimaging, diffusion MRI and Tractography, scientific visualization;
 - 💼 I’m currently doing a postdoctoral fellowship in Electrical and Computer Engineering;
-- 📫 Please email via francois.rheault@vanderbilt.edu to reach me.
+- 📫 Please email via francois.rheault(@)vanderbilt.edu to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1QMkmDpPJNnzZ7ZfNnn_0uUDFEKIenriq/view?usp=sharing) to get more info (september 2021).
 
 
 **Languages and Tools:**  
 <code><img height="20" src="https://github.com/nextflow-io/trademark/blob/master/nextflow-icon-128x128.png?raw=true"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="
+https://sylabs.io/assets/svg/singularity-logo.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=frheault&show_icons=true&hide_border=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frheault)](https://github.com/anuraghazra/github-readme-stats) 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=frheault&show_icons=true&hide_border=true) 
