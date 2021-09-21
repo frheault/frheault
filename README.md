@@ -4,7 +4,7 @@ Hi, I'm **Francois Rheault**, a **Computer Scientist** 🖥️ and a **Neuroimag
 
 Cycling enthusiast 🚴‍♂️, backcountry camping 🏕️ and science communication 🔬.
 
-<a href="https://twitter.com/home">
+<a href="https://twitter.com/FrancoisRheault">
   <img align="left" alt="Francois Rheault Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.researchgate.net/profile/Francois-Rheault">
