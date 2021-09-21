@@ -2,7 +2,7 @@
 
 Hi, I'm **Francois Rheault**, a **Computer Scientist** 🖥️ and a **Neuroimaging Expert** 🧠 from **Canada** 🇨🇦.
 
-Cycling enthusiast 🚴‍♂️, backcountry camping 🏕️ and science communication.
+Cycling enthusiast 🚴‍♂️, backcountry camping 🏕️ and science communication 🔬.
 
 <a href="https://twitter.com/home">
   <img align="left" alt="Francois Rheault Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -20,7 +20,7 @@ Cycling enthusiast 🚴‍♂️, backcountry camping 🏕️ and science commun
   <img align="right" alt="PNG" src="https://i.ibb.co/7tTTBbN/Francois-Rheault-Ude-S.jpg" width="250" height="250"/>
 
 **Talking about Personal Stuffs:**
-- 🔬 My research interests are with neuroimaging, diffusion MRI and tractography, visualization
+- 🧲 My research interests are with neuroimaging, diffusion MRI and tractography, visualization
 - 💼 I’m doing a postdoctoral fellowship in Electrical and Computer Engineering [(profile)](https://www.vanderbilt.edu/vise/visepeople/francois-rheault/)
 - 📜 You can look at my thesis: [Analyse et reconstruction de faisceaux de la matière blanche](https://savoirs.usherbrooke.ca/handle/11143/17255)
 - 📫 Please email via *francois.rheault(@)vanderbilt.edu* to reach me
