@@ -29,6 +29,10 @@ Cycling enthusiast 🚴‍♂️, backcountry camping 🏕️ and science commun
 - 📫 Please email via *francois.rheault(@)vanderbilt.edu* to reach me
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1QMkmDpPJNnzZ7ZfNnn_0uUDFEKIenriq/view?usp=sharing) (september 2021)
 
+**Key Publications**
+- Rheault, F., Poulin, P., Caron, A. V., St-Onge, E., & Descoteaux, M. (2020). Common misconceptions, hidden biases and modern challenges of dMRI tractography. Journal of neural engineering, 17(1), 011001. [link](https://iopscience.iop.org/article/10.1088/1741-2552/ab6aad/meta)
+- Rheault, F., De Benedictis, A., Daducci, A., Maffei, C., Tax, C. M., Romascano, D., ... & Descoteaux, M. (2020). Tractostorm: The what, why, and how of tractography dissection reproducibility. Human brain mapping, 41(7), 1859-1874. [link](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24917)
+- Rheault, F., St-Onge, E., Sidhu, J., Maier-Hein, K., Tzourio-Mazoyer, N., Petit, L., & Descoteaux, M. (2019). Bundle-specific tractography with incorporated anatomical and orientational priors. NeuroImage, 186, 382-398. [link](https://www.sciencedirect.com/science/article/abs/pii/S1053811918320883)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://github.com/nextflow-io/trademark/blob/master/nextflow-icon-128x128.png?raw=true"></code>
