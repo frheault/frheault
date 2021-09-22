@@ -21,9 +21,9 @@ Cycling enthusiast 🚴‍♂️, backcountry camping 🏕️ and science commun
 <br />
 <br />
 
-**Talking about Personal Stuffs:**
+**Research Life:**
   <img align="right" alt="PNG" src="https://i.ibb.co/chpmZn4/Screenshot-from-2021-09-21-17-56-17.png" width="300" >
-- 🧲 My research interests are with neuroimaging, diffusion MRI and tractography, visualization
+- 🧲 My research interests are with neuroimaging, diffusion MRI and tractography, scientific visualization
 - 💼 I’m doing a postdoctoral fellowship in Electrical and Computer Engineering [(profile)](https://www.vanderbilt.edu/vise/visepeople/francois-rheault/)
 - 📜 You can look at my thesis: [Analyse et reconstruction de faisceaux de la matière blanche](https://savoirs.usherbrooke.ca/handle/11143/17255)
 - 📫 Please email via *francois.rheault(@)vanderbilt.edu* to reach me
