@@ -27,7 +27,7 @@ Cycling enthusiast 🚴‍♂️, backcountry camping 🏕️ and science commun
 - 💼 I’m doing a postdoctoral fellowship in Electrical and Computer Engineering [(profile)](https://www.vanderbilt.edu/vise/visepeople/francois-rheault/)
 - 📜 You can look at my thesis: [Analyse et reconstruction de faisceaux de la matière blanche](https://savoirs.usherbrooke.ca/handle/11143/17255)
 - 📫 Please email via *francois.rheault(@)vanderbilt.edu* to reach me
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1QMkmDpPJNnzZ7ZfNnn_0uUDFEKIenriq/view?usp=sharing) (september 2021)
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1QMkmDpPJNnzZ7ZfNnn_0uUDFEKIenriq/view?usp=sharing) (May 2022)
 
 **Key Publications**
 - Rheault, F., Poulin, P., Caron, A. V., St-Onge, E., & Descoteaux, M. (2020). Common misconceptions, hidden biases and modern challenges of dMRI tractography. Journal of neural engineering, 17(1), 011001. [link](https://iopscience.iop.org/article/10.1088/1741-2552/ab6aad/meta)
