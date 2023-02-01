@@ -26,10 +26,11 @@ Cycling enthusiast 🚴‍♂️, backcountry camping 🏕️ and science commun
 - 🧲 My research interests are with neuroimaging, diffusion MRI and tractography, scientific visualization
 - 💼 I’m doing a postdoctoral fellowship in Electrical and Computer Engineering [(profile)](https://www.vanderbilt.edu/vise/visepeople/francois-rheault/)
 - 📜 You can look at my thesis: [Analyse et reconstruction de faisceaux de la matière blanche](https://savoirs.usherbrooke.ca/handle/11143/17255)
-- 📫 Please email via *francois.rheault(@)vanderbilt.edu* to reach me
+- 📫 Please email via *francois.m.rheault(@)usherbrooke.ca* to reach me
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1QMkmDpPJNnzZ7ZfNnn_0uUDFEKIenriq/view?usp=sharing) (May 2022)
 
 **Key Publications**
+- Rheault F., Schilling K., Obaid S., Begnoche J., Cutting L., Descoteaux M., Landman B., Petit L. (2022). The influence of regions of interest on tractography virtual dissection protocols: general principles to learn and to follow. Brain Structure and Function 227, no. 6: 2191-2207. [link](https://link.springer.com/article/10.1007/s00429-022-02518-6)
 - Rheault, F., Poulin, P., Caron, A. V., St-Onge, E., & Descoteaux, M. (2020). Common misconceptions, hidden biases and modern challenges of dMRI tractography. Journal of neural engineering, 17(1), 011001. [link](https://iopscience.iop.org/article/10.1088/1741-2552/ab6aad/meta)
 - Rheault, F., De Benedictis, A., Daducci, A., Maffei, C., Tax, C. M., Romascano, D., ... & Descoteaux, M. (2020). Tractostorm: The what, why, and how of tractography dissection reproducibility. Human brain mapping, 41(7), 1859-1874. [link](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24917)
 - Rheault, F., St-Onge, E., Sidhu, J., Maier-Hein, K., Tzourio-Mazoyer, N., Petit, L., & Descoteaux, M. (2019). Bundle-specific tractography with incorporated anatomical and orientational priors. NeuroImage, 186, 382-398. [link](https://www.sciencedirect.com/science/article/abs/pii/S1053811918320883)
