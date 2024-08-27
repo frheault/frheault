@@ -36,7 +36,7 @@ Cycling enthusiast 🚴‍♂️, backcountry camping 🏕️ and science commun
 - Rheault, F., St-Onge, E., Sidhu, J., Maier-Hein, K., Tzourio-Mazoyer, N., Petit, L., & Descoteaux, M. (2019). Bundle-specific tractography with incorporated anatomical and orientational priors. NeuroImage, 186, 382-398. [link](https://www.sciencedirect.com/science/article/abs/pii/S1053811918320883)
 
 **Languages and Tools:**  
-<code><img height="20" src="https://github.com/nextflow-io/trademark/blob/master/nextflow-icon-128x128.png?raw=true"></code>
+<code><img height="20" src="https://github.com/nextflow-io/trademark/blob/master/nextflow-icon.png?raw=true"></code>
 <code><img height="20" src="https://sylabs.io/assets/svg/singularity-logo.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
