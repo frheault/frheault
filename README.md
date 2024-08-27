@@ -27,7 +27,7 @@ Cycling enthusiast 🚴‍♂️, backcountry camping 🏕️ and science commun
 - 💼 I’m doing a postdoctoral fellowship in Electrical and Computer Engineering [(profile)](https://www.vanderbilt.edu/vise/visepeople/francois-rheault/)
 - 📜 You can look at my thesis: [Analyse et reconstruction de faisceaux de la matière blanche](https://savoirs.usherbrooke.ca/handle/11143/17255)
 - 📫 Please email via *francois.m.rheault(@)usherbrooke.ca* to reach me
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1QMkmDpPJNnzZ7ZfNnn_0uUDFEKIenriq/view?usp=sharing) (May 2022)
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1QMkmDpPJNnzZ7ZfNnn_0uUDFEKIenriq/view?usp=sharing) (September 2024)
 
 **Key Publications**
 - Rheault F., Schilling K., Obaid S., Begnoche J., Cutting L., Descoteaux M., Landman B., Petit L. (2022). The influence of regions of interest on tractography virtual dissection protocols: general principles to learn and to follow. Brain Structure and Function 227, no. 6: 2191-2207. [link](https://link.springer.com/article/10.1007/s00429-022-02518-6)
